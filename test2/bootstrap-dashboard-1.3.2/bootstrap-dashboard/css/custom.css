@@ -1,0 +1,10 @@
+/* your styles go here */
+.page1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  background-color: #F4F7FA;
+  min-height: 100vh;
+  padding-bottom: 50px;
+}
